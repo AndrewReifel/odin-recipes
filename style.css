@@ -1,0 +1,23 @@
+h1 {
+  font-family: Geneva, Tahoma, sans-serif;
+  color: green;
+  text-align: center;
+}
+
+ul {
+  font-weight: bold;
+  font-size: 25;
+  text-align: left;
+}
+
+h4 {
+  font-family: Geneva, Tahoma, sans-serif;
+}
+
+.square-img {
+  height: 200px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
